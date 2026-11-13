@@ -1,0 +1,12 @@
+{
+  "name": "directory-scripts-test",
+  "version": "0.1.0",
+  "description": "A minimal test plugin: one skill that runs one Python standard-library script from its scripts/ folder. It exists to learn how the plugin directory treats skill scripts from an individual account.",
+  "author": {
+    "name": "Luzian",
+    "url": "https://github.com/LuzianMe"
+  },
+  "homepage": "https://github.com/LuzianMe/directory-scripts-test",
+  "repository": "https://github.com/LuzianMe/directory-scripts-test",
+  "license": "MIT"
+}
